@@ -12,58 +12,63 @@ Ministry of Railway
 
 ## Idea
 1. Smart Indoor Navigation using AI + BLE Beacons
-
 Use Bluetooth Low Energy (BLE) beacons + WiFi triangulation to provide real-time indoor positioning inside railway stations where GPS fails.
-
 Shows live blue-dot navigation (like Google Maps indoors)
-Detects crowd density and suggests less crowded routes
+Detects crowd density and suggests less crowded routes.
+
 2. AI-Powered Visual Navigation (Camera-based Assistance)
-
 Users can point their phone camera, and the app will:
-
 Detect signboards (Platform, Exit, Restroom) using Computer Vision
 Overlay AR arrows (Augmented Reality navigation)
-Helps even illiterate users navigate easily
+Helps even illiterate users navigate easily.
+
 3. Voice + Multilingual Smart Assistant
 Supports Hindi, English, Tamil & regional languages
 Voice commands like:
 "Take me to Platform 5"
 "Where is the nearest restroom?"
-Special voice guidance for visually impaired users
+Special voice guidance for visually impaired users.
+
 4. Accessibility Mode (Inclusive Navigation)
 Wheelchair-friendly route detection
 Elevator/escalator preference
 Audio-only navigation mode
-Haptic vibration alerts for turns
+Haptic vibration alerts for turns.
+
 5. Smart Crowd & Congestion Detection
 Uses CCTV + AI + IoT sensors
 Displays:
-Busy platforms 🚨
+Busy platforms
 Waiting time at ticket counters
-Suggests alternate routes
+Suggests alternate routes.
+
 6. Digital Twin 3D Station Map
 Interactive 3D model of the station
 Users can:
 Rotate, zoom, explore floors
-See shops, food courts, exits
+See shops, food courts, exits.
+
 7. Offline Navigation Mode
 Download station map beforehand
-Works without internet (important for underground stations)
+Works without internet (important for underground stations).
+
 8. Smart Kiosk Integration
 Touchscreen kiosks at stations
 Scan QR → Continue navigation on mobile
-Voice-enabled kiosks for accessibility
+Voice-enabled kiosks for accessibility.
+
 9. Real-Time Alerts & Integration
 Platform changes
 Train delays
 Emergency alerts
-Integrated with railway APIs
+Integrated with railway APIs.
+
 10. Gamification & Rewards System
 Earn points for:
 Using navigation
 Reporting issues
 Redeem for:
-Discounts at station shops
+Discounts at station shops.
 
 ## Proposed Solution / Architecture Diagram
 ![alt text](image.png)
@@ -110,8 +115,8 @@ Testing & Debugging – 7 days
 
  Budget:
 
-Estimated Budget – ₹60,000
-APIs & Cloud Services – ₹20,000
-Development & Tools – ₹15,000
-Data Collection & Processing – ₹15,000
-Miscellaneous – ₹10,000
+1. Estimated Budget – ₹60,000
+2. APIs & Cloud Services – ₹20,000
+3. Development & Tools – ₹15,000
+4. Data Collection & Processing – ₹15,000
+5. Miscellaneous – ₹10,000
